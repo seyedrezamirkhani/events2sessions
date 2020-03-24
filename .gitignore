@@ -130,3 +130,7 @@ dmypy.json
 
 # Python virtual environment
 venv
+
+# Spark temp files
+*metastore_db*
+derby.log
